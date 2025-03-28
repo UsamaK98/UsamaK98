@@ -1,120 +1,60 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
+# 👋 Hi there, I'm Usama Khatab
 
-# 
+## 🚀 AI Solutions Architect | Generative AI Engineer | Quantum Computing Enthusiast
 
----
+![Profile Views](https://komarev.com/ghpvc/?username=usamakhatab&style=flat-square)
 
-# 👋 Hello, I'm Usama Khatab
+### 💡 About Me
 
-## AI Solutions Architect | Software Engineer | Quantum Computing Enthusiast
+I'm an AI Solutions Architect with over 4 years of experience at the intersection of artificial intelligence, quantum computing, and innovative technology solutions. As an NVIDIA Certified Developer and LLM Deployment Specialist, I specialize in:
 
-I'm an AI Solutions Architect and software engineer with over 4 years of experience in AI, ML, and quantum computing. As an NVIDIA Certified Developer and LLM Deployment Specialist, I specialize in strategic AI implementation, model fine-tuning, and emerging tech integration.[^1]
+- 🤖 Strategic AI Implementation
+- 🧠 Model Fine-Tuning
+- 🔍 Domain-Specific RAG Systems
+- 💻 CI/CD Pipelines for AI/ML Workloads
 
-## 🚀 What I Do
+### 🛠️ Technology Stack
 
-- Design and implement cutting-edge Generative AI solutions
-- Develop domain-specific RAG systems and quantum-inspired ML algorithms
-- Create Agentic-AI workflows and Multimodal AR/VR solutions
-- Optimize CI/CD pipelines for AI/ML workloads[^1]
+#### Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
+#### Frameworks & Libraries
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Langchain](https://img.shields.io/badge/Langchain-1C3D5A?style=for-the-badge&logo=chainlink&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-## 🛠 Tech Stack
+#### Tools & Platforms
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Programming Languages
+### 🏆 Recent Achievements
 
-Python
-C\#
-JavaScript
-TypeScript
-C++
-Java
-Bash
-Scala
-Rust
-Go
-Solidity[^1]
+- 🏅 NVIDIA Certified LLM Deployment Specialist
+- 📊 Reduced QC inspection time by 78% with FlashAttention-optimized vision models
+- 🔗 Integrated LightRAG knowledge base, decreasing documentation search time by 55%
 
-### Frameworks \& Libraries
+### 📈 GitHub Stats
 
-Langchain
-Ollama
-TensorFlow
-PyTorch
-Transformers
-React Native
-.NET
-HuggingFace
-OpenCV
-Scikit-Learn[^1]
+![Usama's GitHub stats](https://github-readme-stats.vercel.app/api?username=usamakhatab&show_icons=true&theme=radical)
 
-### Tools \& Platforms
+### 🔬 Current Focus
 
-Docker
-Linux
-CUDA
-Firebase
-PostgreSQL
-MySQL
-MongoDB
-Weaviate
-Qdrant[^1]
+- Exploring Quantum-Inspired Machine Learning Algorithms
+- Developing Advanced Agentic AI Workflows
+- Innovating in Multimodal AR/VR Solutions
 
-## 🏆 Achievements
+### 📫 Get in Touch
 
-- Deployed FlashAttention-optimized vision models, reducing QC inspection time by 78%[^1]
-- Integrated LightRAG knowledge base, cutting documentation search time by 55%[^1]
-- Architected Zero Trust SDN using pfSense[^1]
-
-
-## 📊 GitHub Stats
-
-Usama's GitHub Stats
-
-## 🌟 Featured Projects
-
-1. **AI-Powered 3D Modeling Tool**
-    - Integrated Generative AI with advanced 3D modeling software for marine structures[^1]
-    - Reduced design time by 40% through parametric CAD acceleration[^1]
-2. **Quantum-Inspired ML Algorithms**
-    - Developed quantum computing approaches for traditional ML problems[^1]
-    - Implemented using Qadence framework for quantum circuit design[^1]
-3. **RAG-Enhanced Knowledge Systems**
-    - Built LightGraphRag and Microsoft GraphRag implementations[^1]
-    - Deployed custom embeddings for domain-specific information retrieval[^1]
-4. **Vision Transformer Applications**
-    - Engineered object detection solutions using Vision Transformers[^1]
-    - Applied to industrial quality control with 78% efficiency improvement[^1]
-
-## 🎓 Education \& Certifications
-
-- B.Sc. in Computer Science, National University of Computer and Emerging Sciences[^1]
-- NVIDIA Certified LLM Deployment Specialist[^1]
-- LinkedIn: Securing Software as a Service[^1]
-
-
-## 💼 Professional Experience
-
-- **Generative AI Engineer** - MJM Marine (May 2024 - Present)[^1]
-- **KTP Associate** - Queen's University Belfast (May 2024 - Present)[^1]
-- **Systems Engineer (ML \& Networking)** - IDRAK Ai Ltd (Jan 2024 - Apr 2024)[^1]
-- **Mobile Application Developer** - Grayhat (Jul 2022 - Aug 2022)[^1]
-
-
-## 🌐 Connect With Me
-
-[LinkedIn
-[GitHub
-[Email
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/usamakhatab)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:usamakhatab98@gmail.com)
 
 ---
 
-💡 *"The best way to predict the future is to invent it."*
-
-Profile Views
-
-<div style="text-align: center">⁂</div>
-
-[^1]: https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/59215511/67c41904-70e7-4a3a-b655-e8a312d53e43/Usama_Resume.pdf
-
-[^2]: https://www.linkedin.com/in/usamakhatab981/
-
+⭐️ From [Usama Khatab](https://github.com/usamakhatab)
