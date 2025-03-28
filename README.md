@@ -65,5 +65,3 @@ Citations:
 [1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/59215511/67c41904-70e7-4a3a-b655-e8a312d53e43/Usama_Resume.pdf
 [2] https://www.linkedin.com/in/usamakhatab981/
 
----
-Answer from Perplexity: pplx.ai/share
