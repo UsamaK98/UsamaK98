@@ -42,7 +42,7 @@ I'm an AI Solutions Architect with over 4 years of experience at the intersectio
 
 ### 📈 GitHub Stats
 
-![Usama's GitHub stats](https://github-readme-stats.vercel.app/api?username=usamakhatab&show_icons=true&theme=radical)
+![Usama's GitHub stats](https://github-readme-stats.vercel.app/api?username=UsamaK98&show_icons=true&theme=radical)
 
 ### 🔬 Current Focus
 
