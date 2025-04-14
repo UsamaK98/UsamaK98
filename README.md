@@ -52,7 +52,7 @@ I'm an AI Solutions Architect with over 4 years of experience at the intersectio
 
 ### 📫 Get in Touch
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/usamakhatab)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/usamakhatab981/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:usamakhatab98@gmail.com)
 
 ---
